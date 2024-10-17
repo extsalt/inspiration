@@ -300,6 +300,12 @@ const inspirations = [
     c: '109',
     h: "\u003Cblockquote\u003E&ldquo;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&rdquo; &mdash; \u003Cfooter\u003ECharles Dickens\u003C/footer\u003E\u003C/blockquote\u003E",
   },
+  {
+    q: 'To iterate is human, to recurse divine',
+    a: '— Laurence Peter Deutsch',
+    c: '109',
+    h: "\u003Cblockquote\u003E&ldquo;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&rdquo; &mdash; \u003Cfooter\u003ECharles Dickens\u003C/footer\u003E\u003C/blockquote\u003E",
+  },
 ]
 
 export default function handler(req, res) {
